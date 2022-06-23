@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 23 Jun 2022 08:31:09 -0400
+Source: gummi
+Binary: gummi gummi-dbgsym
+Architecture: source amd64
+Version: 0.8.3-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Marcin Stefanowicz <matiowo@wp.pl>
+Changed-By: Marcin Stefanowicz <matiowo@wp.pl>
+Description:
+ gummi      - The simple LaTeX editor
+Changes:
+ gummi (0.8.3-1) UNRELEASED; urgency=medium
+ .
+   * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 3f8f659e7a30a5cb6e97ebd0781b60c2c73abf00 3217 gummi_0.8.3-1.dsc
+ 631ddcaf701c21e0287d3b9373483467de39c9d3 590485 gummi_0.8.3.orig.tar.gz
+ da1f6907b47c8027eee32c4bce5fc972f775cbb3 10380 gummi_0.8.3-1.debian.tar.xz
+ 525b401de4255638c2e5079b40406487678b4234 221960 gummi-dbgsym_0.8.3-1_amd64.deb
+ d369078c240b943ea3fd28d7129e0bdffe3c91eb 22185 gummi_0.8.3-1_amd64.buildinfo
+ 7e26db5850f9d1d49ee73799a2f195cdf46e6de5 311908 gummi_0.8.3-1_amd64.deb
+Checksums-Sha256:
+ 062774e2ec14480fab8130499ac8708704bb2dcfd0903a7b1a33cbff4ac2c768 3217 gummi_0.8.3-1.dsc
+ c1769fea45c23bf892bdbf524c92ddf83eae21b1ddba358d4173155aadea898e 590485 gummi_0.8.3.orig.tar.gz
+ ba81dd99322d80ba7dba9e873ef04a11f5b4adbf774881ef0252cb76e54e6cc6 10380 gummi_0.8.3-1.debian.tar.xz
+ 6492bc5563f3f1820e24849014ca3d229e6e620187f72253d544eb2cae381f1a 221960 gummi-dbgsym_0.8.3-1_amd64.deb
+ 0fc4fae28b38b6c6a4b5a817fa4e4287f95abbe3d7e9b15d82cef5b9fca8dd72 22185 gummi_0.8.3-1_amd64.buildinfo
+ c4eaed4489281e3340f7acbd9b66bfaefc4347946eb686725f75ab97bcf4f79b 311908 gummi_0.8.3-1_amd64.deb
+Files:
+ 4e3d783c816366f3122d24686b83e83c 3217 unknown optional gummi_0.8.3-1.dsc
+ 096a2c6c9306fc9b22b0a898d6712e1b 590485 unknown optional gummi_0.8.3.orig.tar.gz
+ c58214c79e0c4878aeb37a12ae6834d0 10380 unknown optional gummi_0.8.3-1.debian.tar.xz
+ 528964d3cf6388ef20b50a339dcf25a4 221960 debug optional gummi-dbgsym_0.8.3-1_amd64.deb
+ 6e6b81aee84710425428ad9636ca7dd5 22185 unknown optional gummi_0.8.3-1_amd64.buildinfo
+ ae0b641d4fa3da6d059b30f4711a5822 311908 unknown optional gummi_0.8.3-1_amd64.deb

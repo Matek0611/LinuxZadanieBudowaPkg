@@ -1,0 +1,5 @@
+gummi (0.8.3-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Marcin Stefanowicz <matiowo@wp.pl>  Thu, 23 Jun 2022 08:31:09 -0400

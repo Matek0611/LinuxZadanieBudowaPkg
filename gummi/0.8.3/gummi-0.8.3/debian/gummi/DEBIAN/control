@@ -1,0 +1,12 @@
+Package: gummi
+Version: 0.8.3-1
+Architecture: amd64
+Maintainer: Marcin Stefanowicz <matiowo@wp.pl>
+Installed-Size: 1187
+Depends: libc6 (>= 2.33), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.21.4), libgtksourceview-3.0-1 (>= 2.91.4), libgtkspell3-3-0, libpango-1.0-0 (>= 1.14.0), libpoppler-glib8 (>= 0.18.0), libsynctex2 (>= 2022.20220321.62855)
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: The simple LaTeX editor
+ Gummi is a LaTeX editor. It is a GTK+ application which runs on Linux systems.
+ Gummi has many useful features needed to edit LaTeX source code, such as: live preview, SyncTeX integration and templates.
